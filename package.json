@@ -1,0 +1,17 @@
+{
+  "name": "dzigen",
+  "version": "0.0.1",
+  "description": "A command line tool for generating .dzi images",
+  "main": "index.js",
+  "dependencies": {
+    "deepzoomtools": "^0.0.8",
+    "lodash": "^3.3.1",
+    "optimist": "^0.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andreas Löf Hermansson <andreas.lof@bureau-va.com>",
+  "license": "MIT"
+}
