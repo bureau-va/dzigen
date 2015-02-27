@@ -12,6 +12,21 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bureau-va/dzigen.git"
+  },
+  "keywords": [
+    "dzi",
+    "deepzoomtools",
+    "deepzoom",
+    "deep",
+    "zoom"
+  ],
   "author": "Andreas Löf Hermansson <andreas.lof@bureau-va.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bureau-va/dzigen/issues"
+  },
+  "homepage": "https://github.com/bureau-va/dzigen"
 }
