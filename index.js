@@ -31,8 +31,7 @@ settings = _.chain(argv)
 
 if (!fs.existsSync(settings.path)) throw new Error('File does not exists');
 
-var dest = path.join(__dirname, 
-                     path.dirname(settings.path),
+var dest = path.join(path.dirname(settings.path),
                      path.basename(settings.path)
                       .replace(path.extname(settings.path), '.dzi')
                     );
