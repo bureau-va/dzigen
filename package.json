@@ -28,5 +28,9 @@
   "bugs": {
     "url": "https://github.com/bureau-va/dzigen/issues"
   },
-  "homepage": "https://github.com/bureau-va/dzigen"
+  "homepage": "https://github.com/bureau-va/dzigen",
+  "preferGlobal": true,
+  "bin": {
+    "dzigen": "index.js"
+  }
 }
