@@ -1,6 +1,6 @@
 {
   "name": "dzigen",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A command line tool for generating .dzi images",
   "main": "index.js",
   "dependencies": {
